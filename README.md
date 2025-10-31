@@ -6,7 +6,18 @@
 </ul>
 <h2>Certifications</h2>
 <ul>
-  <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> Issued by IBM SkillsBuild</li>
+  <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> Issued by <strong>IBM SkillsBuild</strong></li>
+  <li><a href="https://www.credly.com/badges/ce2dc39b-355c-425d-bfe5-87a8c9912a03/public_url">Certified Information Systems Security Professional (CISSP)</a>Issued by <strong>ISC2</strong></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
+  <li><a><strong></strong></a></li>
 </ul>
 <h2>Certificates</h2>
 <h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
