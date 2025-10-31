@@ -4,7 +4,7 @@
   <li><a href="https://www.linkedin.com/in/mr-ricardo-beltran/">LinkedIn</a></li>
   <li><a href="https://www.credly.com/users/mr-ricardo-beltran/">Credly</a></li>
 </ul>
-<h2>Certifications</h2>
+<h1>Certifications</h1>
 <ul>
   <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> issued by <strong>IBM SkillsBuild</strong> on 5/3/2024 </li>
   <li><a href="https://www.credly.com/badges/ce2dc39b-355c-425d-bfe5-87a8c9912a03/public_url">Certified Information Systems Security Professional (CISSP)</a> issued by <strong>ISC2</strong> expires on 3/31/2028 </li>
@@ -20,10 +20,56 @@
   <li><a href="https://www.credly.com/badges/24d56b25-13e6-4b60-95ed-48328c02b9d5/public_url">XM Cyber- Exposure Management Expert</a> issued by <strong>XM Cyber</strong> on 3/9/2024 </li>
   <li><a href="https://www.credly.com/badges/7cfb1b85-95ba-4208-b22c-f7fbec7cbdd4/public_url">XM Cyber- Risk Reporting to the Board</a> issued by <strong>XM Cyber</strong> on 10/21/2025 </li>
 </ul>
-<h2>Certificates</h2>
+<h1>Certificates</h1>
+<h2>Cybersecurity & Infrastructure Security Agency (CISA)</h2>
 <h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
 <picture>
-  <source media="(min-width: 640px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
-  <source media="(min-width: 230px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <source media="(min-width: 320px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
   <img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" style="width:auto;">
 </picture>
+
+<h2>AWS</h2>
+<h3>Security Learning Plan (includes Labs)</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-08-15_Security Learning Plan_includes Labs.jpg">
+  <source media="(min-width: 160px)" srcset="2025-08-15_Security Learning Plan_includes Labs.jpg">
+  <img src="2025-08-15_Security Learning Plan_includes Labs.jpg" style="width:auto;">
+</picture>
+
+<h3>Protecting Your Instance with Security Groups</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2024-12-26_Protecting Your Instance with Security Group.jpg">
+  <source media="(min-width: 160px)" srcset="2024-12-26_Protecting Your Instance with Security Group.jpg">
+  <img src="2024-12-26_Protecting Your Instance with Security Group.jpg" style="width:auto;">
+</picture>
+
+<h3>Differences Between Security Groups and NACLs</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2024-12-26_Differences Between Security Groups and NACLs.jpg">
+  <source media="(min-width: 160px)" srcset="2024-12-26_Differences Between Security Groups and NACLs.jpg">
+  <img src="2024-12-26_Differences Between Security Groups and NACLs.jpg" style="width:auto;">
+</picture>
+
+<h3>AWS Security Best Practices: Overview</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2024-12-26_AWS Security Best Practices_Overview.jpg">
+  <source media="(min-width: 160px)" srcset="2024-12-26_AWS Security Best Practices_Overview.jpg">
+  <img src="2024-12-26_AWS Security Best Practices_Overview.jpg" style="width:auto;">
+</picture>
+
+<h3>AWS Security Hub CSPM Getting Started</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2024-11-26_AWS Security Hub CSPM Getting Started.jpg">
+  <source media="(min-width: 160px)" srcset="2024-11-26_AWS Security Hub CSPM Getting Started.jpg">
+  <img src="2024-11-26_AWS Security Hub CSPM Getting Started.jpg" style="width:auto;">
+</picture>
+
+<h3>Security Learning Plan</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2023-11-15_Security Learning Plan.jpg">
+  <source media="(min-width: 160px)" srcset="2023-11-15_Security Learning Plan.jpg">
+  <img src="2023-11-15_Security Learning Plan.jpg" style="width:auto;">
+</picture>
+
+
