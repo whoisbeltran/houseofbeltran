@@ -5,6 +5,6 @@
 </ul>
 <h2>Certificates</h2>
 <ul>
-<li><img src="https://1drv.ms/i/c/b55351abbed539e4/EY5wNB-wiklJtEKHOvQTDGUBNphbCc8KF64hDtRjhAj56g?e=5I1RB4" alt="Certificate of Completion in Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series) from the Cybersecurity & Infrastructure Security Agency (CISA) on October 27, 2025"</li>
+<li><img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" alt="Certificate of Completion in Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series) from the Cybersecurity & Infrastructure Security Agency (CISA) on October 27, 2025"</li>
   
 </ul>
