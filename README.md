@@ -5,7 +5,9 @@
   <li><a href="https://www.credly.com/users/mr-ricardo-beltran/">Credly</a></li>
 </ul>
 <h2>Certifications</h2>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="062c361d-bd7e-407f-af80-cd54d1a086a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<ul>
+  <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> Issued by IBM SkillsBuild</li>
+</ul>
 <h2>Certificates</h2>
 <h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
 <picture>
