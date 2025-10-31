@@ -6,18 +6,19 @@
 </ul>
 <h2>Certifications</h2>
 <ul>
-  <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> Issued by <strong>IBM SkillsBuild</strong></li>
-  <li><a href="https://www.credly.com/badges/ce2dc39b-355c-425d-bfe5-87a8c9912a03/public_url">Certified Information Systems Security Professional (CISSP)</a>Issued by <strong>ISC2</strong></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
-  <li><a><strong></strong></a></li>
+  <li><a href="https://www.credly.com/badges/062c361d-bd7e-407f-af80-cd54d1a086a8/public_url">Artificial Intelligence Fundamentals</a> issued by <strong>IBM SkillsBuild</strong> on 5/3/2024 </li>
+  <li><a href="https://www.credly.com/badges/ce2dc39b-355c-425d-bfe5-87a8c9912a03/public_url">Certified Information Systems Security Professional (CISSP)</a> issued by <strong>ISC2</strong> expires on 3/31/2028 </li>
+  <li><a href="https://www.credly.com/badges/1e8aee8f-a0c8-4bcb-949d-98111f0ed1a6/public_url">Cybersecurity Fundamentals</a> issued by <strong>IBM SkillsBuild</strong> on 3/11/2023 </li>
+  <li><a href="https://www.credly.com/badges/e76b04c8-5c7d-4cdf-bfa0-b7b6512b5daf/public_url">Explore Emerging Tech</a> issued by <strong>IBM SkillsBuild</strong> on Jul 28, 2024</li>
+  <li><a href="https://www.credly.com/badges/a97c11ff-e5d4-4a54-b8bb-93af17c72217/public_url">Fortinet Certified Fundamentals Cybersecurity</a> Issued by <strong>Fortinet</strong> on 5/28/2024 </li>
+  <li><a href="https://www.credly.com/badges/6edb1f83-34fb-463b-948b-8f2af3f3ab2c/public_url">Getting Started in Cybersecurity 2.0</a> issued by <strong>Fortinet</strong> on 5/28/2024 </li>
+  <li><a href="https://www.credly.com/badges/d316a642-9be6-4d69-b83c-e4a2c1da79dc/public_url">Global Industrial Cyber Security Professional (GICSP)</a> issued by <strong>GIAC</strong> expires on 5/31/2027 </li>
+  <li><a href="https://www.credly.com/badges/8cad7d28-c3c1-4013-a413-a358a6e3a308/public_url">Introduction to Cybersecurity</a> issued by <strong>CISCO</strong> on 3/10/2023 </li>
+  <li><a href="https://www.credly.com/badges/857eb404-c1c7-4097-a3c3-bc255881554c/public_url">Introduction to the Threat Landscape 1.0</a> issued by <strong>Fortinet</strong> on 3/13/2023 </li>
+  <li><a href="https://www.credly.com/badges/afc9e5f0-8351-4bc2-9732-f4f688005b42/public_url">OPSWAT Introduction to Critical Infrastructure Protection (ICIP)</a> issued by <strong>OPSWAT</strong> expires on 3/9/2026 </li>
+  <li><a href="https://www.credly.com/badges/3cc10620-0a08-4691-868c-40bb3097c273/public_url">Working in a Digital World: Professional Skills</a> issued by <strong>IBM SkillsBuild</strong> on 2/26/2023 </li>
+  <li><a href="https://www.credly.com/badges/24d56b25-13e6-4b60-95ed-48328c02b9d5/public_url">XM Cyber- Exposure Management Expert</a> issued by <strong>XM Cyber</strong> on 3/9/2024 </li>
+  <li><a href="https://www.credly.com/badges/7cfb1b85-95ba-4208-b22c-f7fbec7cbdd4/public_url">XM Cyber- Risk Reporting to the Board</a> issued by <strong>XM Cyber</strong> on 10/21/2025 </li>
 </ul>
 <h2>Certificates</h2>
 <h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
