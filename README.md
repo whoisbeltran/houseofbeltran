@@ -2,6 +2,7 @@
 <p>Welcome to my portfolio of educational accomplishments, certifications, and continuous learning as a cybersecurity professional.</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/mr-ricardo-beltran/">LinkedIn</a></li>
+  <li><a href="https://www.credly.com/users/mr-ricardo-beltran/">Credly</a></li>
 </ul>
 <h2>Certificates</h2>
 <h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
