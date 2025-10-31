@@ -4,7 +4,9 @@
   <li><a href="https://www.linkedin.com/in/mr-ricardo-beltran/">LinkedIn</a></li>
 </ul>
 <h2>Certificates</h2>
-<ul>
-<li><img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" alt="Certificate of Completion in Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series) from the Cybersecurity & Infrastructure Security Agency (CISA) on October 27, 2025" style="width:320px;height:240px;"</li>
-  
-</ul>
+<h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
+<picture>
+  <source media="(min-width: 640px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <source media="(min-width: 230px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" style="width:auto;">
+</picture>
