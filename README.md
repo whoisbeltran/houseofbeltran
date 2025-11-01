@@ -151,7 +151,7 @@
   <img src="2025-02-05_Secure your websites and applications now for the busiest time of the year.jpg" style="width:auto;">
 </picture>
 
-<h3>How to Choose an MDR Provider, Five Questions You Need to Ask</h3>
+<h3>How to Choose an MDR Provider. Five Questions You Need to Ask</h3>
 <picture>
   <source media="(min-width: 320px)" srcset="2025-02-05_How to Choose an MDR Provider_Five Questions You Need to Ask.jpg">
   <source media="(min-width: 160px)" srcset="2025-02-05_How to Choose an MDR Provider_Five Questions You Need to Ask.jpg">
