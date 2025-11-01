@@ -20,14 +20,8 @@
   <li><a href="https://www.credly.com/badges/24d56b25-13e6-4b60-95ed-48328c02b9d5/public_url">XM Cyber- Exposure Management Expert</a> issued by <strong>XM Cyber</strong> on 3/9/2024 </li>
   <li><a href="https://www.credly.com/badges/7cfb1b85-95ba-4208-b22c-f7fbec7cbdd4/public_url">XM Cyber- Risk Reporting to the Board</a> issued by <strong>XM Cyber</strong> on 10/21/2025 </li>
 </ul>
+
 <h1>Certificates</h1>
-<h2>Cybersecurity & Infrastructure Security Agency (CISA)</h2>
-<h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
-<picture>
-  <source media="(min-width: 320px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
-  <source media="(min-width: 160px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
-  <img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" style="width:auto;">
-</picture>
 
 <h2>AWS</h2>
 <h3>Security Learning Plan (includes Labs)</h3>
@@ -70,6 +64,134 @@
   <source media="(min-width: 320px)" srcset="2023-11-15_Security Learning Plan.jpg">
   <source media="(min-width: 160px)" srcset="2023-11-15_Security Learning Plan.jpg">
   <img src="2023-11-15_Security Learning Plan.jpg" style="width:auto;">
+</picture>
+
+<h2>BrightTALK</h2>
+<h3>Where are the 3 million Cyber Jobs: Cyber Careers and Your Next Tech Role</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_Where are the 3 million Cyber Jobs_Cyber Careers and Your Next Tech Role.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_Where are the 3 million Cyber Jobs_Cyber Careers and Your Next Tech Role.jpg">
+  <img src="2025-10-03_Where are the 3 million Cyber Jobs_Cyber Careers and Your Next Tech Role.jpg" style="width:auto;">
+</picture>
+
+<h3>Top Cloud Threats within AI Security</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_Top Cloud Threats within AI Security.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_Top Cloud Threats within AI Security.jpg">
+  <img src="2025-10-03_Top Cloud Threats within AI Security.jpg" style="width:auto;">
+</picture>
+
+<h3>Ninja One Project Showcase</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_Ninja One Project Showcase.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_Ninja One Project Showcase.jpg">
+  <img src="2025-10-03_Ninja One Project Showcase.jpg" style="width:auto;">
+</picture>
+
+<h3>How to Deliver vCISO Services in 30 Days</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_How to Deliver vCISO Services in 30 Days.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_How to Deliver vCISO Services in 30 Days.jpg">
+  <img src="2025-10-03_How to Deliver vCISO Services in 30 Days.jpg" style="width:auto;">
+</picture>
+
+<h3>Entrust Project Showcase</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_Entrust Project Showcase.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_Entrust Project Showcase.jpg">
+  <img src="2025-10-03_Entrust Project Showcase.jpg" style="width:auto;">
+</picture>
+
+<h3>Do CISOs Need Their Own Legal Counsel_Some Lessons from SolarWinds and Uber</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_Do CISOs Need Their Own Legal Counsel_Some Lessons from SolarWinds and Uber.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_Do CISOs Need Their Own Legal Counsel_Some Lessons from SolarWinds and Uber.jpg">
+  <img src="2025-10-03_Do CISOs Need Their Own Legal Counsel_Some Lessons from SolarWinds and Uber.jpg" style="width:auto;">
+</picture>
+
+<h3>2024 Recap: IT Security Trends and Insights</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-03_2024 Recap_IT Security Trends and Insights.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-03_2024 Recap_IT Security Trends and Insights.jpg">
+  <img src="2025-10-03_2024 Recap_IT Security Trends and Insights.jpg" style="width:auto;">
+</picture>
+
+<h3>Hyperproof Product Showcase</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-09-30_Hyperproof Product Showcase.jpg">
+  <source media="(min-width: 160px)" srcset="2025-09-30_Hyperproof Product Showcase.jpg">
+  <img src="2025-09-30_Hyperproof Product Showcase.jpg" style="width:auto;">
+</picture>
+
+<h3>Keep Copilot in Check: Stay in the Pilots Seat with Skyhigh DLP</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-09-18_Keep Copilot in Check_Stay in the Pilots Seat with Skyhigh DLP.jpg">
+  <source media="(min-width: 160px)" srcset="2025-09-18_Keep Copilot in Check_Stay in the Pilots Seat with Skyhigh DLP.jpg">
+  <img src="2025-09-18_Keep Copilot in Check_Stay in the Pilots Seat with Skyhigh DLP.jpg" style="width:auto;">
+</picture>
+
+<h3>Beyond the Hype: What 520 plus Cybersecurity Leaders Revealed About AI in Threat Intelligence</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-09-18_Beyond the Hype_What 520 plus Cybersecurity Leaders Revealed About AI in Threat Intelligence.jpg">
+  <source media="(min-width: 160px)" srcset="2025-09-18_Beyond the Hype_What 520 plus Cybersecurity Leaders Revealed About AI in Threat Intelligence.jpg">
+  <img src="2025-09-18_Beyond the Hype_What 520 plus Cybersecurity Leaders Revealed About AI in Threat Intelligence.jpg" style="width:auto;">
+</picture>
+
+<h3>Threat and Opportunity: Governing Data in the Age of Generative AI</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-02-05_Threat and Opportunity_Governing Data in the Age of Generative AI.jpg">
+  <source media="(min-width: 160px)" srcset="2025-02-05_Threat and Opportunity_Governing Data in the Age of Generative AI.jpg">
+  <img src="2025-02-05_Threat and Opportunity_Governing Data in the Age of Generative AI.jpg" style="width:auto;">
+</picture>
+
+<h3>Secure your websites and applications now for the busiest time of the year</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-02-05_Secure your websites and applications now for the busiest time of the year.jpg">
+  <source media="(min-width: 160px)" srcset="2025-02-05_Secure your websites and applications now for the busiest time of the year.jpg">
+  <img src="2025-02-05_Secure your websites and applications now for the busiest time of the year.jpg" style="width:auto;">
+</picture>
+
+<h3>How to Choose an MDR Provider, Five Questions You Need to Ask</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-02-05_How to Choose an MDR Provider, Five Questions You Need to Ask.jpg">
+  <source media="(min-width: 160px)" srcset="2025-02-05_How to Choose an MDR Provider, Five Questions You Need to Ask.jpg">
+  <img src="2025-02-05_How to Choose an MDR Provider, Five Questions You Need to Ask.jpg" style="width:auto;">
+</picture>
+
+<h3>Expert Insights: Navigating The Complexity of Modern Data Security</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-02-05_Expert Insights_Navigating The Complexity of Modern Data Security.jpg">
+  <source media="(min-width: 160px)" srcset="2025-02-05_Expert Insights_Navigating The Complexity of Modern Data Security.jpg">
+  <img src="2025-02-05_Expert Insights_Navigating The Complexity of Modern Data Security.jpg" style="width:auto;">
+</picture>
+
+<h3>Effectively Managing Security Posture in the Cloud</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg">
+  <source media="(min-width: 160px)" srcset="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg">
+  <img src="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg" style="width:auto;">
+</picture
+
+<h3>How to Choose an MDR Provider. Five Questions You Need to Ask</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg">
+  <source media="(min-width: 160px)" srcset="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg">
+  <img src="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg" style="width:auto;">
+</picture>
+
+<h3>Inside the CISOs Office: 2023 from breaches to breaking news</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2023-12-27_Inside the CISOs Office_2023 from breaches to breaking news.jpg">
+  <source media="(min-width: 160px)" srcset="2023-12-27_Inside the CISOs Office_2023 from breaches to breaking news.jpg">
+  <img src="2023-12-27_Inside the CISOs Office_2023 from breaches to breaking news.jpg" style="width:auto;">
+</picture>
+
+<h2>Cybersecurity & Infrastructure Security Agency (CISA)</h2>
+<h3>Zero Trust Architecture: How to Choose the Right Model(s) for Your Organization (Professors in Practice series)</h3>
+<picture>
+  <source media="(min-width: 320px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <source media="(min-width: 160px)" srcset="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg">
+  <img src="2025-10-27_Zero Trust Architecture_How to Choose the Right Models for Your Organization_Professors in Practice series.jpg" style="width:auto;">
 </picture>
 
 
