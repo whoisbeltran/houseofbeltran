@@ -174,9 +174,9 @@
 
 <h3>How to Choose an MDR Provider. Five Questions You Need to Ask</h3>
 <picture>
-  <source media="(min-width: 320px)" srcset="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg">
-  <source media="(min-width: 160px)" srcset="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg">
-  <img src="2024-07-03_How to Choose an MDR Provider. Five Questions You Need to Ask.jpg" style="width:auto;">
+  <source media="(min-width: 320px)" srcset="2024-07-03_How to Choose an MDR Provider_Five Questions You Need to Ask.jpg">
+  <source media="(min-width: 160px)" srcset="2024-07-03_How to Choose an MDR Provider_Five Questions You Need to Ask.jpg">
+  <img src="2024-07-03_How to Choose an MDR Provider_Five Questions You Need to Ask.jpg" style="width:auto;">
 </picture>
 
 <h3>Inside the CISOs Office: 2023 from breaches to breaking news</h3>
