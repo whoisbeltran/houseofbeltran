@@ -170,7 +170,7 @@
   <source media="(min-width: 320px)" srcset="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg">
   <source media="(min-width: 160px)" srcset="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg">
   <img src="2025-02-05_Effectively Managing Security Posture in the Cloud.jpg" style="width:auto;">
-</picture
+</picture>
 
 <h3>How to Choose an MDR Provider. Five Questions You Need to Ask</h3>
 <picture>
